@@ -24,7 +24,7 @@ http://imgur.com/gallery/z9YFU
 
 [Link](url) and ![Image](src)
 ```
-
+![image](http://clipart-finder.com/data/mini/97-David_Livingstone_small_portrait.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
