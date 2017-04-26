@@ -62,7 +62,7 @@ pce.on('load', function() {
 
 ### Student #1
 ![image](http://clipart-finder.com/data/mini/97-David_Livingstone_small_portrait.png)
-
+My name is Bob, my favorite part of this apprenticeship was the Facebook tour
 
 
 
