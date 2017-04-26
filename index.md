@@ -77,10 +77,10 @@ for (j = 0; j < 200; ++j) {
 }
 </script>
 <script>
-var pce2 = new PencilCodeEmbed(document.getElementById('embed2'));
-pce2.beginLoad();
-pce2.on('load', function() {
-  pce2.setCode({data: script('ex2'), meta: {type: 'text/javascript'}});
+var test = new PencilCodeEmbed(document.getElementById('embed2'));
+test.beginLoad();
+test.on('load', function() {
+  test.setCode({data: script('ex2'), meta: {type: 'text/javascript'}});
 });
 </script>
 
