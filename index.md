@@ -1,6 +1,6 @@
 
 ### Student #1
-![image](http://imgur.com/gallery/fOKhA)
+![image](http://i.imgur.com/nwhnRsZ.jpg)
 
 
 
