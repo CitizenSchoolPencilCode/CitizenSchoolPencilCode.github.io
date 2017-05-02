@@ -1,5 +1,5 @@
 
-### Student #1
+
 ![image](http://i.imgur.com/52EG07Z.jpg)
 ![image](http://i.imgur.com/BRKCywM.jpg)
 ![image](http://i.imgur.com/6GlBPZs.jpg)
