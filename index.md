@@ -1,9 +1,12 @@
 
 ### Student #1
 ![image](http://i.imgur.com/52EG07Z.jpg)
-
-
-
+![image](http://i.imgur.com/BRKCywM.jpg)
+![image](http://i.imgur.com/6GlBPZs.jpg)
+![image](http://i.imgur.com/YYmW2eb.jpg)
+![image](http://i.imgur.com/p05ztWs.jpg)
+![image](http://i.imgur.com/UBXmWm2.jpg)
+![image](http://i.imgur.com/hOk9wHa.jpg)
 
 <script src="//pencilcode.net/lib/pencilcodeembed.js"></script>
 <div id="embed1" style="width:100%;height:350px"></div>
