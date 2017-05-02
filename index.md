@@ -1,6 +1,6 @@
 
 ### Student #1
-![image](peterwoods188.github.io/Pencil Code Pictures/Ali Jones.jpg)
+![image](https://github.com/peterwoods188/peterwoods188.github.io/blob/master/Pencil%20Code%20Pictures/Ali%20Jones.jpg)
 
 
 
