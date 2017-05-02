@@ -1,6 +1,6 @@
 
 ### Student #1
-![image](http://clipart-finder.com/data/mini/97-David_Livingstone_small_portrait.png)
+![image](peterwoods188.github.io/Pencil Code Pictures/Ali Jones.jpg)
 
 
 
