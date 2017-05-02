@@ -8,7 +8,7 @@
 ![image](http://i.imgur.com/UBXmWm2.jpg)
 ![image](http://i.imgur.com/hOk9wHa.jpg)
 
-<img src="http://i.imgur.com/hOk9wHa.jpg"  width="200" height="40" alt="Computer Hope logo normal">
+<img src="http://i.imgur.com/hOk9wHa.jpg"  width="1280" height="720" alt="Computer Hope logo normal">
 <script src="//pencilcode.net/lib/pencilcodeembed.js"></script>
 <div id="embed1" style="width:100%;height:350px"></div>
 <script type="example" id="ex1">
