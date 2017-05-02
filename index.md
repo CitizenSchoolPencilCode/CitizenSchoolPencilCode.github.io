@@ -1,6 +1,6 @@
 
 ### Student #1
-![image](Pencil Code Pictures/Ali Jones.jpg)
+![image](http://imgur.com/gallery/fOKhA)
 
 
 
