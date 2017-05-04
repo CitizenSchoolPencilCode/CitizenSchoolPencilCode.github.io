@@ -144,7 +144,7 @@ pce1.on('load', function() {
       
                 <script src="//pencilcode.net/lib/pencilcodeembed.js">
                 </script>
-                <div id="embed1" style="height:350px">
+                <div id="embed2" style="height:350px">
                 </div>
                 <script type="example" id="ex1">
                  # Your goal: return the larger
@@ -183,7 +183,7 @@ pce1.on('load', function() {
 function script(id) {
   return document.getElementById(id).textContent.trim();
 }
-var pce = new PencilCodeEmbed(document.getElementById('embed1'));
+var pce = new PencilCodeEmbed(document.getElementById('embed2'));
 pce.beginLoad();
 pce.on('load', function() {
   pce.setupScript([
