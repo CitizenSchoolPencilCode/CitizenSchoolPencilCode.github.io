@@ -97,31 +97,20 @@ lt 120, 35
 
                 </script>
                 <script type="checker" id="ch1">
-                 remove(turtle);
-                function test(fn) {
-                 var cases = 6;
-                 var t = table(cases + 1, 4);
-                  t.css({margin: 'auto'});
-                  t.cell(0, 0).text('x');
-                  t.cell(0, 1).text('y');
-                 t.cell(0, 2).text('got');
-                  t.cell(0, 3).text('ok');
-                  for (var j = 1; j <= cases; ++j) {
-                  var x = random(5);
-                   var y = random(5);
-                   var z = Math.max(x, y);
-                   var a = fn(x, y);
-                    t.cell(j, 0).text(x);
-                 t.cell(j, 1).text(y);
-               t.cell(j, 2).text(a);
-               t.cell(j, 3).text(a === z);
-                  if (a !== z) {
-              t.cell(j).css({background: red});
-               } else {
-            t.cell(j, 3).css({color: green});
-                 }
-                 }
-                }
+                         speed 10
+dot yellow, 160
+fd 20
+rt 90
+fd 25
+dot black, 20
+bk 50
+dot black, 20
+bk 5
+rt 90
+fd 40
+pen black, 7
+lt 30
+lt 120, 35     
 </script>
 <script>
 function script(id) {
