@@ -116,13 +116,13 @@
 function script(id) {
   return document.getElementById(id).textContent.trim();
 }
-var pce = new PencilCodeEmbed(document.getElementById('embed1'));
-pce.beginLoad();
-pce.on('load', function() {
-  pce.setupScript([
+var pce1 = new PencilCodeEmbed(document.getElementById('embed1'));
+pce1.beginLoad();
+pce1.on('load', function() {
+  pce1.setupScript([
     {code: script('ch1'), type: 'text/javascript'}
   ]);
-  pce.setCode(script('ex1'));
+  pce1.setCode(script('ex1'));
 });
 </script>       
             </div>
