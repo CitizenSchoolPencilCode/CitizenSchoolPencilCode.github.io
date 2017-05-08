@@ -151,13 +151,13 @@ pce1.on('load', function() {
                 </script>
                 <div id="embed2" style="height:350px">
                 </div>
-                <script type="example" id="ex1">
+                <script type="example" id="ex2">
                  # Your goal: return the larger
                  # of two parameters.
                  test (x, y) ->
                  return x + y
                 </script>
-                <script type="checker" id="ch1">
+                <script type="checker" id="ch2">
                  remove(turtle);
                 function test(fn) {
                  var cases = 6;
@@ -192,9 +192,9 @@ var pce = new PencilCodeEmbed(document.getElementById('embed2'));
 pce.beginLoad();
 pce.on('load', function() {
   pce.setupScript([
-    {code: script('ch1'), type: 'text/javascript'}
+    {code: script('ch2'), type: 'text/javascript'}
   ]);
-  pce.setCode(script('ex1'));
+  pce.setCode(script('ex2'));
 });
 </script>
 
