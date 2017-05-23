@@ -550,24 +550,25 @@ pce7.on('load', function() {
             </div>
             <div class="col-md-5">
                 <h3>Felix Paulino </h3>
-                <p>My name is Felix and I find the shape of the number 8 fascinating and that’s why it’s my favorite number. Xbox and basketball are two passions of mine. I wanted to learn how to code so I chose this apprenticeship. Throughout my 10 weeks in this program I learned how to give instructions to the computer so that it can do what I tell it to do. I realize that I really enjoy coding. In fact, my favorite program that I created was the T-shaped program using functions. This was not my first coding class. I started taking coding classes since I was in Pre-K. I see a bright future for me in coding. I want to become a robotic engineer and I know I will need to use code to make the robots do what I want them to do. If that does not work out I would then try to become a basketball player.    
-                            <script src="//pencilcode.net/lib/pencilcodeembed.js">
+                <p>My name is Sean McKenzie. I'm 13 and in grade 7. I like making new designs 
+	           in pencil code. I chose this class because it sounded interesting
+	           my favorite thing to make was the smiley face.
+			<script src="//pencilcode.net/lib/pencilcodeembed.js">
                 </script>
-                <div id="embed6" style="height:350px">
+                <div id="embedSean" style="height:350px">
                 </div>
-                <script type="example" id="exfelix">
-tee = () ->
+                <script type="example" id="exSean">
+speed 100
+pen blue, 10
+for [1..100]
+  dot red, 125
+  fd 100
+  pen red, 100
   fd 50
-  rt 90
-  bk 25
-  fd 50
-pen green
-tee()
-pen gold
-tee()
-pen black
-tee()
-                </script>
+  dot red, 50
+  bk 100
+  pen red, 50
+  rt 560        </script>
                 <script type="checker" id="ch1">
                  remove(turtle);
                 function test(fn) {
@@ -599,13 +600,13 @@ tee()
 function script(id) {
   return document.getElementById(id).textContent.trim();
 }
-var pce6 = new PencilCodeEmbed(document.getElementById('embed6'));
+var pce6 = new PencilCodeEmbed(document.getElementById('embedSean'));
 pce6.beginLoad();
 pce6.on('load', function() {
   pce6.setupScript([
     {code: script('ch1'), type: 'text/javascript'}
   ]);
-  pce6.setCode(script('exfelix'));
+  pce6.setCode(script('exSean'));
 });
 </script>
             </div>
