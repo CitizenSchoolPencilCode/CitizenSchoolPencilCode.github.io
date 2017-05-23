@@ -540,6 +540,79 @@ pce7.on('load', function() {
         <!-- /.row -->
 
         <hr>
+
+        <!-- Project Three -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="http://i.imgur.com/hOk9wHa.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Felix Paulino </h3>
+                <p>My name is Felix and I find the shape of the number 8 fascinating and that’s why it’s my favorite number. Xbox and basketball are two passions of mine. I wanted to learn how to code so I chose this apprenticeship. Throughout my 10 weeks in this program I learned how to give instructions to the computer so that it can do what I tell it to do. I realize that I really enjoy coding. In fact, my favorite program that I created was the T-shaped program using functions. This was not my first coding class. I started taking coding classes since I was in Pre-K. I see a bright future for me in coding. I want to become a robotic engineer and I know I will need to use code to make the robots do what I want them to do. If that does not work out I would then try to become a basketball player.    
+                            <script src="//pencilcode.net/lib/pencilcodeembed.js">
+                </script>
+                <div id="embed6" style="height:350px">
+                </div>
+                <script type="example" id="exfelix">
+tee = () ->
+  fd 50
+  rt 90
+  bk 25
+  fd 50
+pen green
+tee()
+pen gold
+tee()
+pen black
+tee()
+                </script>
+                <script type="checker" id="ch1">
+                 remove(turtle);
+                function test(fn) {
+                 var cases = 6;
+                 var t = table(cases + 1, 4);
+                  t.css({margin: 'auto'});
+                  t.cell(0, 0).text('x');
+                  t.cell(0, 1).text('y');
+                 t.cell(0, 2).text('got');
+                  t.cell(0, 3).text('ok');
+                  for (var j = 1; j <= cases; ++j) {
+                  var x = random(5);
+                   var y = random(5);
+                   var z = Math.max(x, y);
+                   var a = fn(x, y);
+                    t.cell(j, 0).text(x);
+                 t.cell(j, 1).text(y);
+               t.cell(j, 2).text(a);
+               t.cell(j, 3).text(a === z);
+                  if (a !== z) {
+              t.cell(j).css({background: red});
+               } else {
+            t.cell(j, 3).css({color: green});
+                 }
+                 }
+                }
+</script>
+<script>
+function script(id) {
+  return document.getElementById(id).textContent.trim();
+}
+var pce6 = new PencilCodeEmbed(document.getElementById('embed6'));
+pce6.beginLoad();
+pce6.on('load', function() {
+  pce6.setupScript([
+    {code: script('ch1'), type: 'text/javascript'}
+  ]);
+  pce6.setCode(script('exfelix'));
+});
+</script>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
         <!-- Pagination -->
         <ul class="pagination justify-content-center">
             <li class="page-item">
